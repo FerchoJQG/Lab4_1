@@ -1,13 +1,21 @@
 # 🚀 Lab 4.1 — Plataforma HA, Balanceo de Carga y Monitoreo
 
 **Universidad San Francisco Xavier de Chuquisaca**  
+
 **Asignatura:** Infraestructura, Plataformas Tecnológicas y Redes — SIS313  
+
 **Docente:** Ing. Marcelo Quispe Ortega | **Semestre:** 1/2026
+
 **Integrantes:** 
+
 Jurado Mamani Melany Shelen
+
 Quispe Gardeazabal Fernando Jose
+
 Macuchapi Fernandez Daner
+
 Limbert Mamani Isla
+
 ---
 
 ## 👥 Integrantes y Roles
